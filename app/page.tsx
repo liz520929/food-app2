@@ -1,3 +1,3 @@
 export default function Page() {
-  return <div>Hello 正常了 ✅</div>;
+  return <div>App正常運作 ✅</div>;
 }
